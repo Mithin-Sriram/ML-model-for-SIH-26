@@ -78,4 +78,4 @@ def deduplicate_detections(
     print(f"Duplicates removed: {removed}")
     print(f"Records after deduplication: {len(df)}")
 
-    return df
+    return df 
